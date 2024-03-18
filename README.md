@@ -11,10 +11,10 @@ En esta materia utilizaremos Haskell.
 ### Carpetas
 
 - **Practicos:** Aquí estarán los practicos enumerados.
-- **Evaluaciones:** Aquí estarán las autoevaluaciones.
-- **Parciales:** Aquí estarán los parciales.
+- **Evaluaciones:** Aquí estarán las evaluaciones de este año.
+- **Parciales Anteriores:** Aquí estarán los parciales de años anteriores.
 
-> Con cada nuevo fichero o carpeta se hará una actualización de este archivo explicando sus contenidos
+> Con cada nuevo fichero o carpeta se hará una actualización de este archivo explicando sus contenidos.
 ---
 
 ### Comandos Importantes

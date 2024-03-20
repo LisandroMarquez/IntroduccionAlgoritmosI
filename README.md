@@ -10,7 +10,7 @@ En esta materia utilizaremos Haskell.
 
 ### Carpetas
 
-- **Practicos:** Aquí estarán los practicos enumerados.
+- **Practico #:** Aquí estarán los practicos enumerados.
 - **Evaluaciones:** Aquí estarán las evaluaciones de este año.
 - **Parciales Anteriores:** Aquí estarán los parciales de años anteriores.
 
